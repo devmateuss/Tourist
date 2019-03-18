@@ -1,5 +1,5 @@
 from django.contrib import admin
-from .models import touristSpot
+from .models import TouristSpot
 
 
-admin.site.register(touristSpot)
+admin.site.register(TouristSpot)
